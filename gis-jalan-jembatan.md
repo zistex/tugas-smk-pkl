@@ -50,3 +50,6 @@ Kondisi struktural
 Upload foto inspeksi (before / after).
 
 Peta lokasi jembatan dengan marker khusus.
+
+contoh :
+https://sijantan.klaten.go.id/webgis
